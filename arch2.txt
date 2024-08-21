@@ -1,2 +1,12 @@
 "arch 2" 
 "arch 2 linea 2" 
+nueva linea random
+------------------
+ya se implemento imagen
+------------------
+--------------
+conflicto 2
+--------------
+-------------
+Conflicto 1
+-------------
