@@ -7,3 +7,6 @@ ya se implemento imagen
 --------------
 conflicto 2
 --------------
+-------------
+Conflicto 1
+-------------
