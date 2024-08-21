@@ -4,3 +4,6 @@ nueva linea random
 ------------------
 ya se implemento imagen
 ------------------
+--------------
+conflicto 2
+--------------
